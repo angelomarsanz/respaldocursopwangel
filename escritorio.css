@@ -113,3 +113,21 @@ h3
 font: bold 16px verdana, sans-serif;
 margin-bottom: 1%;
 }
+
+.opcionmenu
+{
+text-decoration: none;
+color: black;
+}
+
+.formulario
+{
+margin: 2%;
+}
+
+.campo
+{
+margin: 1% 1% 0% 1%;
+float: left;
+width: 98%;
+}
